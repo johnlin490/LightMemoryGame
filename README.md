@@ -37,10 +37,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](http://g.recordit.co/EzNwbyxLpm.gif)
-![](http://g.recordit.co/N6fPkSJ0CB.gif)
 
+Shows Loss
 <img src='http://g.recordit.co/EzNwbyxLpm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+Shows Win
 <img src='http://g.recordit.co/N6fPkSJ0CB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [recordit](http://www.cockos.com/licecap/).
