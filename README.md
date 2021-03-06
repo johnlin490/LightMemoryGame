@@ -6,6 +6,8 @@ Submitted by: **John Lin**
 
 Time spent: **3** hours spent in total
 
+Link to project: (https://light-sound-memorygame.glitch.me)
+
 ## Required Functionality
 
 The following **required** functionality is complete:
