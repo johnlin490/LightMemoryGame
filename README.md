@@ -49,16 +49,17 @@ GIF created with [recordit](http://www.cockos.com/licecap/).
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+None
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+When I was testing out the sound, I realized that there wasn’t any noise coming out. I checked over my code multiple times with the guide and my volume. I was initially showing my program in a new window. I decided to show my program on the side of the screen to see what would happen. When I tested it on the side, the sound started playing and my issue was solved. Another issue that I had was the guess function. I was getting an error where the message would display that I lost the game even when I won. After looking at the flowchart and looking at the code provided, I realized that I never called the win function. Once I put that in, my program worked.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had more time, I would focus on the other optional features. The ones that look the most interesting to me are adding a countdown and adding three strikes. For the countdown, I would have to do some outside research on implementing a timer in javasript. When the timer reaches 0, the game ends and the user loses. I would also have to spend time figuring out how to display the clock. For the strikes, I would create a new variable that increases when the user selects the wrong button. Once the variable reaches 3, the game is over. I would also need to spend time figuring out how to display the strikes.
+
 
 
 
