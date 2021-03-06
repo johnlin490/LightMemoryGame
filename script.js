@@ -12,7 +12,7 @@ var volume = 0.5;  //must be between 0.0 and 1.0
 var guessCounter = 0;
 
 for(var i =0; i < 4; i ++){
-  pattern.push(Math.floor(Math.random()* 6))
+  pattern.push(Math.ceil(Math.random()* 6))
 }
 function startGame(){
     //initialize game variables
