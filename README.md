@@ -44,7 +44,7 @@ Losing GIF
 Winning GIF
 <img src='http://g.recordit.co/M29v6BUggp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [recordit](http://www.cockos.com/licecap/).
+GIF created with [recordit](https://recordit.co/).
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
