@@ -36,13 +36,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-![](http://g.recordit.co/05dbVewJ09.gif)
-![](http://g.recordit.co/M29v6BUggp.gif)
-
-<img src='http://g.recordit.co/05dbVewJ09.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='http://g.recordit.co/M29v6BUggp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 GIF created with [recordit](http://www.cockos.com/licecap/).
 
 ## Reflection Questions
