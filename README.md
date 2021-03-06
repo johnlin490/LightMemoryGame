@@ -4,7 +4,7 @@
 
 Submitted by: **John Lin**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Functionality
 
@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 
 * [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [x] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
+* [x] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
+* [x] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
@@ -37,11 +37,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](http://g.recordit.co/EzNwbyxLpm.gif)
-![](http://g.recordit.co/N6fPkSJ0CB.gif)
+![](http://g.recordit.co/05dbVewJ09.gif)
+![](http://g.recordit.co/M29v6BUggp.gif)
 
-<img src='http://g.recordit.co/EzNwbyxLpm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='http://g.recordit.co/N6fPkSJ0CB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/05dbVewJ09.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/M29v6BUggp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [recordit](http://www.cockos.com/licecap/).
 

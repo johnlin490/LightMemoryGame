@@ -54,3 +54,17 @@ button {
 #button4:active, #button4.lit{
     background:orange;
 }
+#button5 {
+    background: tan;
+}
+
+#button5:active, #button5.lit{
+    background:brown;
+}
+#button6 {
+    background: lime;
+}
+
+#button6:active, #button6.lit{
+    background:green;
+}
