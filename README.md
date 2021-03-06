@@ -51,13 +51,14 @@ GIF created with [recordit](https://recordit.co/).
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-None
+w3schools.com
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
 When I was testing out the sound, I realized that there wasn’t any noise coming out. I checked over my code multiple times with the guide and my volume. I was initially showing my program in a new window. I decided to show my program on the side of the screen to see what would happen. When I tested it on the side, the sound started playing and my issue was solved. Another issue that I had was the guess function. I was getting an error where the message would display that I lost the game even when I won. After looking at the flowchart and looking at the code provided, I realized that I never called the win function. Once I put that in, my program worked. When trying to implement the random list, I knew that I had to iterate through a for loop and add the random number to the list. However, I was not sure how to get the random number. After a quick google search, I found out that Math.random() gets you a number between 0 and 1. All I had to do was multiply that number by the number of squares I had and round it. I was using math.floor at first. However, I realized that if the value multiplied by the number of squares less than 1, it would round the value to 0. As a result, none of the buttons would light up and it might have caused my program to return an error. To fix this, I used math.ceil to round up the value.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 One thing that I am curious about web development after completing the program is how to increase the user’s experience on a mobile device. When I tested the program on my phone, I noticed a few things were different. Firstly, there wasn’t any sound playing. As a result, I couldn’t really play the game since I had to know which buttons to click. I could have looked at which buttons lit up but the screen could only show 2 buttons at a time. I am also curious about the other ways I can use CSS to change the format of my website.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
