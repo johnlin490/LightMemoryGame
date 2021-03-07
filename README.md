@@ -61,22 +61,3 @@ When I was testing out the sound, I realized that there wasn’t any noise comin
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 If I had more time, I would focus on the other optional features. The ones that look the most interesting to me are adding a countdown and adding three strikes. For the countdown, I would have to do some outside research on implementing a timer in javasript. When the timer reaches 0, the game ends and the user loses. I would also have to spend time figuring out how to display the clock. For the strikes, I would create a new variable that increases when the user selects the wrong button. Once the variable reaches 3, the game is over. I would also need to spend time figuring out how to display the strikes.
-
-
-
-
-## License
-
-    Copyright [Michelel Cheng]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
